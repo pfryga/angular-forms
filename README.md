@@ -1,1 +1,7 @@
-# angular-forms
+# Angular JS forms validation
+
+## Installation
+
+`
+bower install
+`
